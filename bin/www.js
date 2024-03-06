@@ -1,11 +1,4 @@
-#!/usr/bin/env node
 
-/**
- * Module dependencies.
- */
-
-// var app = require('../app');
-// var http = require('http');
 import debug from "debug";
 let log = debug("app:server");
 import env from "dotenv";
